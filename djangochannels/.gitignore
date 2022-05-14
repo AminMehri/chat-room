@@ -1,0 +1,5 @@
+venv
+djangochannels/__pycach__/
+chat/migrations/
+chat/__pycach__/
+dbsqlite3
