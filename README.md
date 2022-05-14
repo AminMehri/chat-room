@@ -36,16 +36,21 @@ $ virtualenv venv
 $ sourse venv/bin/activate
 ```
 
-## 4. when active virtual environment, install the project requirements:
+## 3. when active virtual environment, install the project requirements:
 ```
 $ pip install -r requirement.txt
 ```
 
-## 5. and Migrations:
+## 4. and Migrations:
 ```
 $ python manage.py makemigrations
 
 $ python manage.py migrate
+```
+
+## 5. create super user
+```
+$ python manage.py createsuperuser
 ```
 
 ## 6. RUN:
