@@ -6,7 +6,7 @@ Simple chat room with django
 
 - Python 3.x
 
-- Django 3.1.x
+- Django 4.0.x
 
 - Django Channel
 
