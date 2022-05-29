@@ -12,7 +12,7 @@ Simple chat room with django
 
 - Web socket
 
-- reddis
+- redis
 
 - Javascript
 
